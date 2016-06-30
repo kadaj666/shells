@@ -1,6 +1,7 @@
 # Bash script to generate martingeil system
 # Created by kadaj666 (RPG-Team.ru)
 
+
 #!/bin/bash
 
 echo "How many trys"
